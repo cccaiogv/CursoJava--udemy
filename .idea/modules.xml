@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Curso Java udemy.iml" filepath="$PROJECT_DIR$/.idea/Curso Java udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S8 - Introdução a POO/Cursojava1/Cursojava1.iml" filepath="$PROJECT_DIR$/S8 - Introdução a POO/Cursojava1/Cursojava1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S4 - Estrutura Sequencial/Cursojava10/Cursojava10.iml" filepath="$PROJECT_DIR$/S4 - Estrutura Sequencial/Cursojava10/Cursojava10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S7 - Outros Tópicos Básicos Sobre Java/Cursojava11/Cursojava11.iml" filepath="$PROJECT_DIR$/S7 - Outros Tópicos Básicos Sobre Java/Cursojava11/Cursojava11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava12/Cursojava12.iml" filepath="$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava12/Cursojava12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava13/Cursojava13.iml" filepath="$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava13/Cursojava13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava14/Cursojava14.iml" filepath="$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava14/Cursojava14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava15/Cursojava15.iml" filepath="$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava15/Cursojava15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava16/Cursojava16.iml" filepath="$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava16/Cursojava16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava17/Cursojava17.iml" filepath="$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava17/Cursojava17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S4 - Estrutura Sequencial/Cursojava9/Cursojava18.iml" filepath="$PROJECT_DIR$/S4 - Estrutura Sequencial/Cursojava9/Cursojava18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava8/Cursojava19.iml" filepath="$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava8/Cursojava19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S8 - Introdução a POO/Cursojava2/Cursojava2.iml" filepath="$PROJECT_DIR$/S8 - Introdução a POO/Cursojava2/Cursojava2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S4 - Estrutura Sequencial/Cursojava7/Cursojava20.iml" filepath="$PROJECT_DIR$/S4 - Estrutura Sequencial/Cursojava7/Cursojava20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava7/Cursojava21.iml" filepath="$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava7/Cursojava21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S4 - Estrutura Sequencial/Cursojava6/Cursojava22.iml" filepath="$PROJECT_DIR$/S4 - Estrutura Sequencial/Cursojava6/Cursojava22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S4 - Estrutura Sequencial/Cursojava5/Cursojava23.iml" filepath="$PROJECT_DIR$/S4 - Estrutura Sequencial/Cursojava5/Cursojava23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava9/Cursojava24.iml" filepath="$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava9/Cursojava24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S4 - Estrutura Sequencial/Cursojava4/Cursojava25.iml" filepath="$PROJECT_DIR$/S4 - Estrutura Sequencial/Cursojava4/Cursojava25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava4/Cursojava26.iml" filepath="$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava4/Cursojava26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S4 - Estrutura Sequencial/Cursojava3/Cursojava27.iml" filepath="$PROJECT_DIR$/S4 - Estrutura Sequencial/Cursojava3/Cursojava27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava3/Cursojava28.iml" filepath="$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava3/Cursojava28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S4 - Estrutura Sequencial/Cursojava2/Cursojava29.iml" filepath="$PROJECT_DIR$/S4 - Estrutura Sequencial/Cursojava2/Cursojava29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S8 - Introdução a POO/Cursojava3/Cursojava3.iml" filepath="$PROJECT_DIR$/S8 - Introdução a POO/Cursojava3/Cursojava3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava6/Cursojava30.iml" filepath="$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava6/Cursojava30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S4 - Estrutura Sequencial/Cursojava1/Cursojava31.iml" filepath="$PROJECT_DIR$/S4 - Estrutura Sequencial/Cursojava1/Cursojava31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava5/Cursojava32.iml" filepath="$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava5/Cursojava32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava2/Cursojava33.iml" filepath="$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava2/Cursojava33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava1/Cursojava34.iml" filepath="$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava1/Cursojava34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S6 - Estruturas Repetitivas/Cursojava10/Cursojava35.iml" filepath="$PROJECT_DIR$/S6 - Estruturas Repetitivas/Cursojava10/Cursojava35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S6 - Estruturas Repetitivas/Cursojava6/Cursojava36.iml" filepath="$PROJECT_DIR$/S6 - Estruturas Repetitivas/Cursojava6/Cursojava36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S6 - Estruturas Repetitivas/Cursojava5/Cursojava37.iml" filepath="$PROJECT_DIR$/S6 - Estruturas Repetitivas/Cursojava5/Cursojava37.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S6 - Estruturas Repetitivas/Cursojava4/Cursojava38.iml" filepath="$PROJECT_DIR$/S6 - Estruturas Repetitivas/Cursojava4/Cursojava38.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S6 - Estruturas Repetitivas/Cursojava3/Cursojava39.iml" filepath="$PROJECT_DIR$/S6 - Estruturas Repetitivas/Cursojava3/Cursojava39.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S8 - Introdução a POO/Cursojava4/Cursojava4.iml" filepath="$PROJECT_DIR$/S8 - Introdução a POO/Cursojava4/Cursojava4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S6 - Estruturas Repetitivas/Cursojava9/Cursojava40.iml" filepath="$PROJECT_DIR$/S6 - Estruturas Repetitivas/Cursojava9/Cursojava40.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S9 - Construtores, Palavra This, Sobrecarga e Encapsulamento/Cursojava1/Cursojava41.iml" filepath="$PROJECT_DIR$/S9 - Construtores, Palavra This, Sobrecarga e Encapsulamento/Cursojava1/Cursojava41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S6 - Estruturas Repetitivas/Cursojava8/Cursojava42.iml" filepath="$PROJECT_DIR$/S6 - Estruturas Repetitivas/Cursojava8/Cursojava42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S9 - Construtores, Palavra This, Sobrecarga e Encapsulamento/Cursojava2/Cursojava43.iml" filepath="$PROJECT_DIR$/S9 - Construtores, Palavra This, Sobrecarga e Encapsulamento/Cursojava2/Cursojava43.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S6 - Estruturas Repetitivas/Cursojava7/Cursojava44.iml" filepath="$PROJECT_DIR$/S6 - Estruturas Repetitivas/Cursojava7/Cursojava44.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S7 - Outros Tópicos Básicos Sobre Java/Cursojava7/Cursojava45.iml" filepath="$PROJECT_DIR$/S7 - Outros Tópicos Básicos Sobre Java/Cursojava7/Cursojava45.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S7 - Outros Tópicos Básicos Sobre Java/Cursojava6/Cursojava46.iml" filepath="$PROJECT_DIR$/S7 - Outros Tópicos Básicos Sobre Java/Cursojava6/Cursojava46.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S7 - Outros Tópicos Básicos Sobre Java/Cursojava3/Cursojava47.iml" filepath="$PROJECT_DIR$/S7 - Outros Tópicos Básicos Sobre Java/Cursojava3/Cursojava47.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S7 - Outros Tópicos Básicos Sobre Java/Cursojava2/Cursojava48.iml" filepath="$PROJECT_DIR$/S7 - Outros Tópicos Básicos Sobre Java/Cursojava2/Cursojava48.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S7 - Outros Tópicos Básicos Sobre Java/Cursojava5/Cursojava49.iml" filepath="$PROJECT_DIR$/S7 - Outros Tópicos Básicos Sobre Java/Cursojava5/Cursojava49.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S8 - Introdução a POO/Cursojava5/Cursojava5.iml" filepath="$PROJECT_DIR$/S8 - Introdução a POO/Cursojava5/Cursojava5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S7 - Outros Tópicos Básicos Sobre Java/Cursojava4/Cursojava50.iml" filepath="$PROJECT_DIR$/S7 - Outros Tópicos Básicos Sobre Java/Cursojava4/Cursojava50.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava3/Cursojava51.iml" filepath="$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava3/Cursojava51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava2/Cursojava52.iml" filepath="$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava2/Cursojava52.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava1/Cursojava53.iml" filepath="$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava1/Cursojava53.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava7/Cursojava54.iml" filepath="$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava7/Cursojava54.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava6/Cursojava55.iml" filepath="$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava6/Cursojava55.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava5/Cursojava56.iml" filepath="$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava5/Cursojava56.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava4/Cursojava57.iml" filepath="$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava4/Cursojava57.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava9/Cursojava58.iml" filepath="$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava9/Cursojava58.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava10/Cursojava59.iml" filepath="$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava10/Cursojava59.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S8 - Introdução a POO/Cursojava6/Cursojava6.iml" filepath="$PROJECT_DIR$/S8 - Introdução a POO/Cursojava6/Cursojava6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava8/Cursojava60.iml" filepath="$PROJECT_DIR$/S5 - Estrutura Condicional/Cursojava8/Cursojava60.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S6 - Estruturas Repetitivas/Cursojava1/Cursojava61.iml" filepath="$PROJECT_DIR$/S6 - Estruturas Repetitivas/Cursojava1/Cursojava61.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava11/Cursojava62.iml" filepath="$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava11/Cursojava62.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava10/Cursojava63.iml" filepath="$PROJECT_DIR$/SS10 - Comportamento de Memória, Arrays e Listas/Cursojava10/Cursojava63.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S8 - Introdução a POO/Cursojava7/Cursojava7.iml" filepath="$PROJECT_DIR$/S8 - Introdução a POO/Cursojava7/Cursojava7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S8 - Introdução a POO/Cursojava8/Cursojava8.iml" filepath="$PROJECT_DIR$/S8 - Introdução a POO/Cursojava8/Cursojava8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S8 - Introdução a POO/Cursojava9/Cursojava9.iml" filepath="$PROJECT_DIR$/S8 - Introdução a POO/Cursojava9/Cursojava9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S8 - Introdução a POO/cursojava10/cursojava10.iml" filepath="$PROJECT_DIR$/S8 - Introdução a POO/cursojava10/cursojava10.iml" />
+    </modules>
+  </component>
+</project>

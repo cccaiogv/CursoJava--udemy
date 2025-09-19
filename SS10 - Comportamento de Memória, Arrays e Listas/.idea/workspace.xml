@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="120593c6-3692-4969-b0cd-b485ad6f9394" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Cursojava1/Cursojava1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursojava10/Cursojava10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursojava11/Cursojava11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursojava12/Cursojava12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursojava13/Cursojava13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursojava14/Cursojava14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursojava15/Cursojava15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursojava16/Cursojava16.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursojava17/Cursojava17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursojava2/Cursojava2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursojava3/Cursojava3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursojava4/Cursojava4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursojava5/Cursojava5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursojava6/Cursojava6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursojava7/Cursojava7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursojava8/Cursojava8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursojava9/Cursojava9.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "cccaiogv"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:cccaiogv/CursoJava--Udemy.git",
+    "accountId": "e67213bc-dff8-48c0-bf58-cef33280c90c"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="32uwKuSrOVLaSVzEk5nKEqhnotZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Curso Java udemy/SS10 - Comportamento de Memória, Arrays e Listas"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="120593c6-3692-4969-b0cd-b485ad6f9394" name="Changes" comment="" />
+      <created>1758283705122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758283705122</updated>
+    </task>
+    <servers />
+  </component>
+</project>

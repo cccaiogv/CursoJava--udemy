@@ -7,5 +7,13 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Cursojava41" />
+    <orderEntry type="module" module-name="cursojava10" />
+    <orderEntry type="module" module-name="Cursojava4" />
+    <orderEntry type="module" module-name="Cursojava7" />
+    <orderEntry type="module" module-name="Cursojava6" />
+    <orderEntry type="module" module-name="Cursojava26" />
+    <orderEntry type="module" module-name="Cursojava43" />
+    <orderEntry type="module" module-name="Cursojava33" />
   </component>
 </module>
