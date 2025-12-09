@@ -27,8 +27,8 @@ Minha meta é **atualizar este repositório com commits todos os dias**, mostran
 ## 🛠️ Tecnologias utilizadas
 - **Java** (Linguagem Usada)
 - **IntelliJ IDEA** (IDE de desenvolvimento)  
-- **Git & GitHub** (controle de versão)  
-
+- **Git & GitHub** (Controle de versão)  
+- **MySQL** (Banco de dados
 ---
 
 📌 *Este repositório é meu espaço de prática e aprendizado. Toda contribuição e sugestão é bem-vinda!* 😊
